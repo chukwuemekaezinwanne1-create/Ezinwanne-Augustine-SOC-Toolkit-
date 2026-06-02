@@ -1,0 +1,12 @@
+{
+  "test_folder/file1.txt": {
+    "hash": "6ab2b8588dbbfefdbb0b8ead099e9b0dc4c76e243153b339d1537479957577bc",
+    "modified": "2026-05-31 22:17:20",
+    "size": 31
+  },
+  "test_folder/file2.txt": {
+    "hash": "bcd8970a0dc991ad16aecbb9a53cbb9aabbb4978ee888cca2c2982320905928c",
+    "modified": "2026-05-31 22:12:02",
+    "size": 16
+  }
+}

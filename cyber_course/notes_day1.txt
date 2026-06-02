@@ -1,0 +1,3 @@
+ls = list files in folder
+pwd = show my location 
+Python 3.13.13 installed. Day 1 done.

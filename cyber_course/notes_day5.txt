@@ -1,0 +1,1 @@
+Day 5: with open() reads files. for loops check each line. if 'text' in line finds attacks.

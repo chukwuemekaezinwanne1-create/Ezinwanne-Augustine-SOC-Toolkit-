@@ -1,0 +1,7 @@
+INFO: User admin logged in from 192.168.1.10
+ERROR: FAILED LOGIN for user root from 203.0.113.5
+INFO: Backup completed successfully  
+ERROR: FAILED LOGIN for user admin from 203.0.113.5
+WARNING: Multiple failed attempts from 203.0.113.5
+INFO: User augustine logged in from 192.168.1.20
+ERROR: FAILED LOGIN for user test from 198.51.100.7

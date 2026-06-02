@@ -1,0 +1,10 @@
+Oct 2 15:30:01 ubuntu sshd[1234]: Failed password for root from 192.168.1.100 port 55544 ssh2
+Oct 2 15:30:03 ubuntu sshd[1235]: Failed password for admin from 192.168.1.100 port 55546 ssh2
+Oct 2 15:30:05 ubuntu sshd[1236]: Failed password for root from 192.168.1.100 port 55548 ssh2
+Oct 2 15:30:07 ubuntu sshd[1237]: Failed password for invalid user test from 192.168.1.100 port 55550 ssh2
+Oct 2 15:30:09 ubuntu sshd[1238]: Failed password for root from 192.168.1.100 port 55552 ssh2
+Oct 2 15:31:12 ubuntu sshd[1240]: Accepted password for augustine from 192.168.1.50 port 55560 ssh2
+Oct 2 15:32:15 ubuntu sshd[1241]: Failed password for postgres from 10.0.0.5 port 42210 ssh2
+Oct 2 15:32:17 ubuntu sshd[1242]: Failed password for postgres from 10.0.0.5 port 42212 ssh2
+Oct 2 15:32:19 ubuntu sshd[1243]: Failed password for postgres from 10.0.0.5 port 42214 ssh2
+
